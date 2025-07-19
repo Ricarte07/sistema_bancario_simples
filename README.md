@@ -11,7 +11,7 @@ Este projeto é uma simulação simples de operações bancárias como depósito
 ## Como Executar
 
 1.  Certifique-se de ter o Python 3 instalado.
-2.  Clone o repositório: `https://github.com/Ricarte07/sistema_bancario_simples/blob/main/projeto_banco.py`
+2.  Copia o repositório: `https://github.com/Ricarte07/sistema_bancario_simples/blob/main/projeto_banco.py`
 3.  Navegue até a pasta do projeto e execute o comando:
     ```sh
     python sistema_bancario.py
